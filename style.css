@@ -1,0 +1,99 @@
+.container-fluid.new-container{
+    align-items: center;
+    padding-top: 12px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #8080801f;
+    background-color: white;
+}
+
+.new-container a{
+    font-size: 24px;
+    position: relative;
+    left: -21px;
+}
+
+.new-container a img{
+    height: 37px;
+    width:43px;
+}
+
+.card.app_card{
+    background-color:#F8F9FA;
+    border: none;
+    margin-top: 18px;
+}
+
+.app_card .card-body{
+    padding: 96px 60px;
+}
+
+.app_card .card-body .card-title{
+    font-size:3rem;
+    font-weight:700;
+}
+
+.app_card .card-body .card-text{
+    font-size: 1.5rem;
+    width: 66.67%;
+}
+
+.app_card .card-body a{
+    font-size: 1.3rem;
+    padding:8px 14px;
+}
+
+.app_row{
+    padding: 24px 0px;
+    border-bottom: 1px solid #E2E5E9;
+}
+
+.app_row .card{
+    border: none;
+    border-radius: 10px;
+}
+
+.app_row .card-body{
+    padding: 48px;
+    background-color:black;
+    border-radius: 10px;
+}
+
+.app_row .card-body a{
+    background-color:transparent;
+    color: white;
+    border: 1px solid white;
+}
+
+.app_row .card .card-title{
+    font-size:32px;
+    color: white;
+}
+
+.app_row .card .card-text{
+    width: 91.66%;
+    color:white;
+}
+
+.card.color .card-body{
+    background-color: #F8F9FA
+}
+
+.card.color .card-title{
+    color: black;
+}
+
+.card.color .card-text{
+    color: black;
+}
+
+.card.color a{
+    background-color:transparent;
+    color: #7A8289;
+    border: 1px solid #7A8289;
+}
+
+.end{
+    padding: 18px 0px;
+    color: #595C5F;
+    display: block;
+}

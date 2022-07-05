@@ -1,0 +1,12 @@
+@media (max-width: 768px){
+    .app_card .card-body .card-title{
+        font-size:2.2rem;
+        font-weight:700;
+    }
+    
+    .app_card .card-body .card-text{
+        font-size: 1.3rem;
+        width: 100%;
+    }
+    
+}
